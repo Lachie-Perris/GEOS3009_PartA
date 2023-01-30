@@ -4,8 +4,7 @@ First fork this workspace so you have your own copy.
 
 In the top right of the creen click fork. 
 
-![Alt text](/data/images/fork_it.png?raw=true "How to")
-
+![Alt text](/data/images/Fork_it.png?raw=true "How to")
 
 Open the Github Codespace. Click <>Code and select '+' and 'create a codespace on main'.
 
