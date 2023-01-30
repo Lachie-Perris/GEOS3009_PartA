@@ -10,7 +10,7 @@ Open the Github Codespace. Click <>Code and select '+' and 'create a codespace o
 
 ![Alt text](/data/images/how_to_pic_codespace.png?raw=true "How to")
 
-You can run your codespace in VScode but JupyterLab is preferred.
+We will use Jupyter Lab and Jupyter Notebooks to edit and view the data.
 
 Once your codespace is open, select notebooks -> Prac_A_waves.ipynb
 
